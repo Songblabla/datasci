@@ -1,329 +1,661 @@
 Item,Count
-Science,326
 Multidisciplinary,298
-Engineering,292
-Chemistry,234
-Medicine,187
-Physics,158
-Environmental,144
-Energy,127
-Materials,126
-Computer,112
-Molecular,108
-Management,101
-Health,98
-Technology,96
-Biochemistry,93
-Biology,88
-Astronomy,85
-Chemical,67
-Renewable,63
-Sustainability,63
-Genetics,63
-the,63
-Environment,63
-Infectious,60
-Diseases,60
-Veterinary,59
-Sciences,57
-Communications,56
-Networks,56
-Nuclear,54
-Policy,52
-Public,51
-Occupational,50
-Pharmacology,50
-of,49
-Organic,49
-Physical,47
-Applications,47
-Electronic,47
-Immunology,47
-Microbiology,46
-Condensed,44
-Structural,44
-Matter,44
-Development,43
-Power,42
-Food,42
-Theoretical,40
-Mechanics,40
-Plastics,39
-Polymers,39
-Pollution,39
-Planetary,37
-Electrical,36
-Ecology,36
-Mechanical,36
-High,36
-Geography,36
-Planning,36
-Software,36
-Recognition,36
-Pattern,36
-Vision,36
-Behavior,36
-Waste,35
-Disposal,35
-Systems,35
-Analytical,33
-Civil,33
-Plant,32
-Law,32
-Systematics,32
-Evolution,32
-Biotechnology,31
-Dentistry,31
-Human-Computer,30
-Interaction,30
-Oncology,30
-Economics,30
-Monitoring,30
-Econometrics,30
-Aquatic,29
-Industrial,29
-Construction,29
-Manufacturing,29
-Building,29
-Process,28
-Research,28
-Pharmaceutical,26
-Surgery,26
-Information,25
-Intelligence,25
-Artificial,25
-Sports,25
-Allergy,25
-Biological,24
-Architecture,24
-Fuel,23
-Toxicology,23
-Safety,22
-Mathematics,22
-Catalysis,22
-Spectroscopy,22
-Optical,21
-Magnetic,21
-Drug,21
-Discovery,21
-Orthopedics,20
-Cell,20
-Surfaces,20
-Applied,20
-Zoology,19
-Psychiatry,19
-Cardiovascular,19
-Animal,19
-Bioengineering,19
-Cancer,19
-Cardiology,19
-Education,19
-Neurology,19
-Geology,19
-Earth,19
-Business,18
-Strategy,18
-Quality,17
-Risk,17
-Films,17
-Biomedical,17
-Reliability,17
-Coatings,17
-Endocrinology,17
-Radiology,16
-Imaging,16
-Agricultural,16
-Mental,16
-Hematology,16
-Control,16
-Neuroscience,15
-Virology,15
-Gastroenterology,15
-Social,15
-Mutagenesis,15
-Parasitology,14
-Dietetics,14
-Finance,14
-Care,14
-Nutrition,14
-Alternative,14
-Complementary,14
-Hardware,14
-Geotechnical,14
-Diabetes,13
-International,13
-Metabolism,13
-Agronomy,13
-Critical,13
-Intensive,13
-Crop,13
-Instrumentation,13
-Inorganic,13
-Space,12
-Astrophysics,12
-Dermatology,12
-Biophysics,12
-Studies,12
-Pathology,11
-Forensic,11
-Probability,11
-Nephrology,11
-Biomaterials,11
-Statistics,11
-Hepatology,11
-Nursing,10
-Pediatrics,10
-Epidemiology,10
-Perinatology,10
-Child,10
-Political,10
-Metals,10
-Interfaces,10
-Uncertainty,10
-Water,10
-Accounting,10
-Alloys,10
-Psychology,9
-Modeling,9
-Rehabilitation,9
-Cellular,9
-Design,9
-Processes,9
-Optics,9
-Atomic,9
-Obstetrics,9
-Graphics,9
-Computer-Aided,9
-Gynecology,9
-Ophthalmology,8
-Fluid,8
-Clinical,8
-Transfer,8
-Simulation,8
-Physiology,8
-History,8
-Electrochemistry,8
-Insect,8
-Internal,8
-Flow,8
-Optimization,7
-Surface,7
-Colloid,7
-Arts,7
-Horticulture,7
-Urban,7
-Sociology,7
-Innovation,7
-Library,7
-Therapy,7
-Forestry,7
-Theory,6
-Pharmaceutics,6
-Urology,6
-Transportation,6
-Change,6
-Global,6
-Oceanography,6
-Filtration,5
-Animals,5
-Developmental,5
-Otorhinolaryngology,5
-Humanities,5
-Ceramics,5
-Composites,5
-Transplantation,5
-Reproductive,5
-Separation,5
-Conservation,4
-Nature,4
-Lscape,4
-Pain,4
-Anesthesiology,4
-Linguistics,4
-Pharmacy,4
-Ocean,4
-Language,4
-Marketing,4
-Geriatrics,4
-Gerontology,4
-Processing,4
-Signal,4
-Organizational,4
-Resource,4
-Human,4
-Histology,4
-Relations,3
-Paleontology,3
-Informatics,3
-Media,3
-Advanced,3
-Computational,3
-Analysis,3
-Operations,3
-Anatomy,3
-Rheumatology,3
-Communication,3
-Specialized,3
-Number,3
-Oral,3
-Algebra,3
-Medical,3
-Geochemistry,3
-Religious,3
-Philosophy,3
-Petrology,3
-Decision,3
-Soil,2
-Cultural,2
-Performing,2
-Anthropology,2
-Logic,2
-Small,2
-Emergency,2
-Geophysics,2
-Automotive,2
-Surgical,2
-Mathematical,2
-Music,2
-Visual,2
-Sensory,2
-Literature,2
-Tourism,2
-Behavioral,2
-Leisure,2
-Ultrasound,2
-Radiation,2
-Hospitality,2
-Radiological,2
-Literary,2
-Life-span,1
-Ultrasonics,1
-Geometry,1
-Topology,1
-Assessment,1
-Laboratory,1
-Diagnosis,1
-Statistical,1
-Gender,1
-Psychiatric,1
-Numerical,1
-Autonomic,1
-Endocrine,1
-Archeology,1
-Acoustics,1
-Community,1
-Nonlinear,1
-Home,1
-Life-course,1
-Hygiene,1
-Dental,1
-Aging,1
-Atmospheric,1
-Earth-Surface,1
+Physics  Astronomy,47
+Medicine,47
+Veterinary,39
+Nuclear  High Energy Physics,34
+Dentistry,26
+Stware Human-Computer Interaction Computer Vision  Pattern Recognition Computer Networks  Communications,24
+Engineering,19
+Biochemistry Genetics  Molecular Biology,16
+Critical Care  Intensive Care Medicine,12
+Cardiology  Cardiovascular Medicine,12
+Astronomy  Astrophysics Space  Planetary Science,11
+Dermatology,10
+Health Policy Public Health Environmental  Occupational Health,10
+Complementary  Alternative Medicine,10
+Analytical Chemistry Chemistry  Molecular Medicine Pharmaceutical Science Drug Discovery Physical  Theoretical Chemistry Organic Chemistry,9
+Chemical Engineering  Waste Management  Disposal Pollution Process Chemistry  Technology,9
+Food Science,8
+Immunology  Allergy Immunology,8
+Surgery Orthopedics  Sports Medicine,8
+Energy,8
+Renewable Energy Sustainability   Environment Fuel Technology Condensed Matter Physics Energy Engineering  Power Technology,8
+Chemistry  Chemical Engineering,8
+Geography Planning  Development Environmental Science,7
+Chemistry  Polymers  Plastics,7
+Gastroenterology,7
+Plant Science,7
+Pharmacology,7
+Social Sciences,7
+Public Health Environmental  Occupational Health,7
+Food Science Nutrition  Dietetics,7
+Hematology,7
+Materials Science  Engineering,6
+Public Health Environmental  Occupational Health Infectious Diseases,6
+Mamatics,6
+Environmental Science  Earth  Planetary Sciences,6
+Materials Science  Mechanics  Materials Materials Chemistry,6
+Materials Science  Condensed Matter Physics Mechanics  Materials Mechanical Engineering,6
+Earth  Planetary Sciences,6
+Nephrology,6
+Health Policy,6
+Artificial Intelligence,6
+Animal Science  Zoology Veterinary,5
+Renewable Energy Sustainability   Environment,5
+Computer Science  Geography Planning  Development Renewable Energy Sustainability   Environment Building  Construction Environmental Science  Energy Engineering  Power Technology Hardware  Architecture Computer Networks  Communications Management Monitoring Policy  Law,5
+Infectious Diseases Virology,5
+Structural Biology Biochemistry Molecular Biology,5
+Pharmaceutical Science,5
+Organic Chemistry Polymers  Plastics Materials Chemistry,5
+Mechanics  Materials Mechanical Engineering Metals  Alloys Materials Chemistry,5
+Aquatic Science Plant Science,5
+Aquatic Science,5
+Statistics  Probability Information Systems Education Computer Science Applications Statistics Probability  Uncertainty Library  Information Sciences,5
+Economics  Econometrics,5
+Chemistry,5
+Orthopedics  Sports Medicine,5
+Pollution Public Health Environmental  Occupational Health Health Toxicology  Mutagenesis,5
+Infectious Diseases Pharmacology,5
+Catalysis Molecular Biology Spectroscopy Computer Science Applications Physical  Theoretical Chemistry Organic Chemistry Inorganic Chemistry,5
+Chemistry  Chemical Engineering  Industrial  Manufacturing Engineering,5
+Surgery,5
+Environmental Engineering Environmental Chemistry Waste Management  Disposal Pollution,5
+Ecology Evolution Behavior  Systematics Plant Science,5
+Renewable Energy Sustainability   Environment Environmental Science  Strategy  Management Industrial  Manufacturing Engineering,4
+Reproductive Medicine Obstetrics  Gynecology,4
+Oncology Cancer Research,4
+Civil  Structural Engineering Architecture Building  Construction Safety Risk Reliability  Quality Mechanics  Materials,4
+Psychiatry  Mental Health,4
+Chemistry  Chemical Engineering  Physics  Astronomy,4
+Pharmacy Health Policy,4
+Computer Networks  Communications Electrical  Electronic Engineering Computer Vision  Pattern Recognition,4
+Pediatrics Perinatology  Child Health,4
+Obstetrics  Gynecology,4
+Physical Therapy Sports Therapy  Rehabilitation,4
+Environmental Engineering Environmental Chemistry Chemistry  Pollution Public Health Environmental  Occupational Health Health Toxicology  Mutagenesis,4
+Engineering  Physics  Astronomy,4
+Hematology Oncology Cancer Research,4
+Bioengineering Environmental Engineering Renewable Energy Sustainability   Environment Waste Management  Disposal,4
+Parasitology Infectious Diseases,4
+Pharmacology Pharmacology,4
+Ophthalmology,4
+Radiology Nuclear Medicine  Imaging,4
+Analytical Chemistry Spectroscopy,4
+Nursing,4
+Neurology Neurology,4
+Epidemiology Oncology Public Health Environmental  Occupational Health Cancer Research,4
+Genetics  Pharmacology,4
+Oncology,4
+Computer Graphics  Computer-Aided Design,4
+Chemistry  Environmental Chemistry Chemical Engineering  Renewable Energy Sustainability   Environment,3
+Modeling  Simulation Social Sciences  Human-Computer Interaction,3
+Hepatology,3
+Immunology  Allergy Immunology Infectious Diseases,3
+Biochemistry Environmental Science,3
+Condensed Matter Physics Surfaces  Interfaces Surfaces Coatings  Films,3
+Civil  Structural Engineering Architecture Building  Construction Safety Risk Reliability  Quality,3
+Analytical Chemistry,3
+Computer Science  Engineering,3
+Materials Science  Mechanics  Materials Mechanical Engineering,3
+Hepatology Gastroenterology,3
+Chemical Engineering  Fuel Technology Energy Engineering  Power Technology Organic Chemistry,3
+Electronic Optical  Magnetic Materials Atomic  Molecular Physics  Optics Condensed Matter Physics Spectroscopy Physical  Theoretical Chemistry Materials Chemistry,3
+Environmental Engineering Waste Management  Disposal Management Monitoring Policy  Law,3
+Pathology  Forensic Medicine Genetics,3
+Chemistry  Mamatics  Materials Science  Biochemistry Genetics  Molecular Biology  Physics  Astronomy,3
+Chemical Engineering  Materials Science,3
+Ecology Evolution Behavior  Systematics Ecology Plant Science,3
+Spectroscopy Physical  Theoretical Chemistry Computer Graphics  Computer-Aided Design Materials Chemistry,3
+Microbiology  Infectious Diseases,3
+Surgery Neurology,3
+Infectious Diseases,3
+Internal Medicine Endocrinology Diabetes  Metabolism Public Health Environmental  Occupational Health,3
+Chemical Engineering  Electrochemistry,3
+Psychiatry  Mental Health Cellular  Molecular Neuroscience Biological Psychiatry,3
+Medicine  Biochemistry Genetics  Molecular Biology,3
+Geography Planning  Development Renewable Energy Sustainability   Environment Environmental Science  Energy Engineering  Power Technology Management Monitoring Policy  Law,3
+Physics  Astronomy  Polymers  Plastics Organic Chemistry Materials Chemistry,3
+Chemistry  Environmental Chemistry Chemical Engineering  Industrial  Manufacturing Engineering,3
+Pharmacology Biological Psychiatry,3
+Molecular Medicine Immunology  Microbiology  Veterinary  Public Health Environmental  Occupational Health Infectious Diseases,3
+Materials Science,3
+Biotechnology Applied Microbiology  Biotechnology,3
+Energy Engineering  Power Technology Electrical  Electronic Engineering Hardware  Architecture,3
+Biotechnology Food Science,3
+Microbiology Microbiology,3
+Bioengineering Biomaterials Organic Chemistry Polymers  Plastics,3
+Immunology Environmental Chemistry Aquatic Science Immunology  Microbiology,3
+Catalysis Chemistry,3
+Anessiology  Pain Medicine,3
+Ecology Evolution Behavior  Systematics,3
+Agricultural  Biological Sciences,3
+Catalysis Electronic Optical  Magnetic Materials Biomaterials Polymers  Plastics Colloid  Surface Chemistry Materials Chemistry,3
+Management Information Systems Information Systems Sociology  Political Science Economics  Econometrics Management  Technology  Innovation,3
+Food Science Biochemistry Genetics  Molecular Biology  Plant Science,3
+Psychology,3
+Physical  Theoretical Chemistry Inorganic Chemistry Materials Chemistry,3
+Condensed Matter Physics Mechanical Engineering Fluid Flow  Transfer Processes,3
+Genetics Genetics,3
+Statistics  Probability Statistics Probability  Uncertainty,3
+Electronic Optical  Magnetic Materials Instrumentation Condensed Matter Physics Surfaces Coatings  Films Metals  Alloys Electrical  Electronic Engineering Materials Chemistry,2
+Catalysis Physical  Theoretical Chemistry,2
+Oncology Radiology Nuclear Medicine  Imaging Cancer Research,2
+Computer Science  Geography Planning  Development Renewable Energy Sustainability   Environment Environmental Science  Energy Engineering  Power Technology Hardware  Architecture Computer Networks  Communications Management Monitoring Policy  Law,2
+Chemical Engineering  Mechanics  Materials,2
+Forestry Geography Planning  Development Nature  Lscape Conservation Management Monitoring Policy  Law,2
+Oncology Radiology Nuclear Medicine  Imaging,2
+Materials Science  Instrumentation Engineering  Process Chemistry  Technology Computer Science Applications Fluid Flow  Transfer Processes,2
+Orthopedics  Sports Medicine Physical Therapy Sports Therapy  Rehabilitation,2
+Microbiology Biochemistry Pharmacology Toxicology  Pharmaceutics  Microbiology  Infectious Diseases Pharmacology,2
+Toxicology Environmental Science,2
+Environmental Engineering Polymers  Plastics Materials Chemistry,2
+Geography Planning  Development Development Political Science  International Relations,2
+Instrumentation Computer Networks  Communications Control  Optimization,2
+Analytical Chemistry Biochemistry Organic Chemistry,2
+Biotechnology Biophysics Biomedical Engineering Electrochemistry,2
+Infectious Diseases Epidemiology Public Health Environmental  Occupational Health,2
+Language  Linguistics Education Linguistics  Language,2
+Immunology  Allergy Microbiology Immunology Veterinary  Infectious Diseases,2
+Geography Planning  Development Renewable Energy Sustainability   Environment Safety Research,2
+Physics  Astronomy  Physical  Theoretical Chemistry,2
+Immunology Pharmacology Drug Discovery Infectious Diseases Pharmacology,2
+Aquatic Science Animal Science  Zoology,2
+Developmental Biology Cell Biology,2
+Ophthalmology Sensory Systems Cellular  Molecular Neuroscience,2
+Bioengineering Chemical Engineering  Process Chemistry  Technology,2
+Environmental Science,2
+Internal Medicine,2
+Neuroscience  Biochemistry Genetics  Molecular Biology  Agricultural  Biological Sciences,2
+Civil  Structural Engineering Geotechnical Engineering  Engineering Geology,2
+Renewable Energy Sustainability   Environment Nuclear Energy  Engineering Fuel Technology Energy Engineering  Power Technology,2
+Structural Biology Biochemistry Molecular Biology Economics  Econometrics Energy,2
+Control  Systems Engineering Chemistry  Geotechnical Engineering  Engineering Geology Mechanical Engineering,2
+Food Science Industrial  Manufacturing Engineering,2
+Oceanography Aquatic Science Pollution,2
+Electronic Optical  Magnetic Materials Mechanics  Materials Industrial  Manufacturing Engineering Electrical  Electronic Engineering,2
+Electronic Optical  Magnetic Materials Ceramics  Composites Process Chemistry  Technology Surfaces Coatings  Films Materials Chemistry,2
+Biotechnology Safety Risk Reliability  Quality Waste Management  Disposal Process Chemistry  Technology,2
+Physical  Theoretical Chemistry Surfaces Coatings  Films Materials Chemistry,2
+Geriatrics  Gerontology,2
+Pediatrics Perinatology  Child Health Dentistry,2
+Civil  Structural Engineering Polymers  Plastics,2
+Endocrinology Diabetes  Metabolism Molecular Biology Clinical Biochemistry Cell Biology Biochemistry  Pharmacology,2
+Chemical Engineering  Waste Management  Disposal Process Chemistry  Technology,2
+Business  International Management Economics  Econometrics Strategy  Management,2
+Urban Studies Visual Arts  Performing Arts History Music,2
+Biochemistry Genetics  Molecular Biology  Pharmacology Toxicology  Pharmaceutics,2
+Epidemiology Microbiology  Infectious Diseases,2
+Parasitology Veterinary,2
+Ecology Animal Science  Zoology Agronomy  Crop Science,2
+Environmental Engineering Environmental Chemistry Chemical Engineering  Safety Risk Reliability  Quality,2
+Gastroenterology Hepatology,2
+Ecology Evolution Behavior  Systematics Ecology Agricultural  Biological Sciences  Paleontology,2
+Forestry Renewable Energy Sustainability   Environment Agronomy  Crop Science Waste Management  Disposal,2
+Ecology Evolution Behavior  Systematics Insect Science,2
+Analytical Chemistry Filtration  Separation,2
+Organizational Behavior  Human Resource Management Artificial Intelligence Computer Networks  Communications Computer Science Applications Computer Vision  Pattern Recognition Stware Information Systems  Management Instrumentation,2
+Biophysics Biochemistry Molecular Biology,2
+Civil  Structural Engineering Materials Science  Condensed Matter Physics Mechanics  Materials Mechanical Engineering,2
+Analytical Chemistry Environmental Chemistry Biochemistry Spectroscopy,2
+Agronomy  Crop Science,2
+Chemical Engineering  Process Chemistry  Technology,2
+Microbiology Infectious Diseases,2
+Analytical Chemistry Food Science,2
+Environmental Chemistry Pollution Pharmaceutical Science Management Monitoring Policy  Law,2
+Molecular Biology Immunology  Microbiology  Genetics,2
+Oceanography Global  Planetary Change Aquatic Science Water Science  Technology Environmental Science  Ocean Engineering,2
+Oceanography Ecology Evolution Behavior  Systematics Aquatic Science,2
+Psychiatry  Mental Health Biological Psychiatry,2
+Nephrology Urology,2
+Biotechnology Bioengineering Biochemistry Applied Microbiology  Biotechnology Molecular Biology,2
+Computer Science Applications Computer Vision  Pattern Recognition Hardware  Architecture Stware Artificial Intelligence,2
+Control  Systems Engineering Stware Mechanical Engineering Computer Science Applications Industrial  Manufacturing Engineering,2
+Analytical Chemistry Biochemistry Plant Science Organic Chemistry,2
+Computer Networks  Communications Signal Processing,2
+Parasitology Veterinary  Insect Science Infectious Diseases,2
+Chemistry  Condensed Matter Physics Polymers  Plastics Materials Chemistry,2
+Environmental Chemistry Pollution Health Toxicology  Mutagenesis,2
+Civil  Structural Engineering,2
+Renewable Energy Sustainability   Environment Building  Construction Environmental Science  Strategy  Management Industrial  Manufacturing Engineering,2
+Education,2
+Immunology  Allergy Otorhinolaryngology,2
+Immunology  Microbiology  Veterinary,2
+Food Animals Animal Science  Zoology,2
+Business  International Management Strategy  Management Organizational Behavior  Human Resource Management,2
+Genetics,2
+Pharmacology Pharmacology  Infectious Diseases,2
+Chemistry  Biochemistry Genetics  Molecular Biology  Physics  Astronomy,2
+Environmental Chemistry Chemical Engineering  Materials Science  Energy,2
+Renewable Energy Sustainability   Environment Fuel Technology Energy Engineering  Power Technology Energy  Control  Optimization Electrical  Electronic Engineering,2
+Analytical Chemistry Molecular Medicine Pharmacology Pharmaceutical Science Drug Discovery Complementary  Alternative Medicine Organic Chemistry,2
+Endocrinology Diabetes  Metabolism Orthopedics  Sports Medicine Endocrinology,2
+Catalysis Environmental Science  Process Chemistry  Technology,2
+Instrumentation Electrical  Electronic Engineering,2
+Catalysis Process Chemistry  Technology,2
+Geography Planning  Development Renewable Energy Sustainability   Environment Management Monitoring Policy  Law,2
+Pharmacology Drug Discovery,2
+Neurology Cellular  Molecular Neuroscience,2
+Surfaces  Interfaces Physical  Theoretical Chemistry Colloid  Surface Chemistry,1
+Immunology  Allergy Molecular Medicine Hematology Cell Biology Transplantation,1
+Numerical Analysis Engineering  Applied Mamatics,1
+Building  Construction Renewable Energy Sustainability   Environment Mechanical Engineering Energy  Management Monitoring Policy  Law,1
+Ecology Evolution Behavior  Systematics Ecology Nature  Lscape Conservation,1
+Forestry,1
+Bioengineering Biochemistry Chemistry  Molecular Medicine Molecular Biology,1
+Condensed Matter Physics Inorganic Chemistry Materials Chemistry,1
+Energy Engineering  Power Technology Mechanical Engineering Fluid Flow  Transfer Processes Industrial  Manufacturing Engineering,1
+Biotechnology Aquatic Science,1
+Ophthalmology Infectious Diseases,1
+Gender Studies Endocrinology,1
+Medicine  Physical Therapy Sports Therapy  Rehabilitation Nutrition  Dietetics,1
+Surgery Neuroscience  Psychiatric Mental Health Neurology  Psychiatry  Mental Health,1
+Management Information Systems Business  International Management Strategy  Management Statistics Probability  Uncertainty Management Science  Operations Research,1
+Fuel Technology Geotechnical Engineering  Engineering Geology Energy Engineering  Power Technology,1
+Radiology Nuclear Medicine  Imaging Oncology,1
+Electronic Optical  Magnetic Materials Atomic  Molecular Physics  Optics Electrical  Electronic Engineering,1
+Oncology Genetics Cancer Research,1
+Materials Science  Condensed Matter Physics,1
+Environmental Science  Pollution Management Monitoring Policy  Law,1
+Waste Management  Disposal Public Health Environmental  Occupational Health,1
+Business Management  Accounting  Arts  Humanities  Social Sciences  Psychology  Economics Econometrics  Finance,1
+Control  Systems Engineering Artificial Intelligence Electrical  Electronic Engineering,1
+Immunology  Allergy Immunology Pharmacology,1
+Radiation,1
+Microbiology Microbiology  Virology,1
+Biochemistry Materials Science  Physical  Theoretical Chemistry Filtration  Separation,1
+Civil  Structural Engineering Building  Construction Materials Science  Geotechnical Engineering  Engineering Geology Computer Science Applications,1
+Statistical  Nonlinear Physics Mamatical Physics Physics  Astronomy  Applied Mamatics,1
+Global  Planetary Change Ecology Evolution Behavior  Systematics Archeology  Archeology Geology,1
+Ecology Evolution Behavior  Systematics Physiology Animal Science  Zoology Molecular Biology Genetics,1
+Biomedical Engineering Ophthalmology,1
+Community  Home Care Medical  Surgical Nursing Nursing,1
+Civil  Structural Engineering Mechanics  Materials Mechanical Engineering Polymers  Plastics Industrial  Manufacturing Engineering,1
+Dermatology Neurology  Psychiatry  Mental Health,1
+Catalysis Ceramics  Composites Materials Science  Energy  Surfaces Coatings  Films Metals  Alloys,1
+Geography Planning  Development History Sociology  Political Science,1
+Business  International Management Finance Economics  Econometrics Strategy  Management,1
+Ecology Evolution Behavior  Systematics Animal Science  Zoology Cell Biology,1
+Microbiology Molecular Medicine Molecular Biology,1
+Business Management  Accounting  Strategy  Management Management  Technology  Innovation,1
+Small Animals Food Animals Animal Science  Zoology Equine,1
+Psychology  Psychiatry  Mental Health,1
+Condensed Matter Physics Mechanics  Materials Surfaces  Interfaces Surfaces Coatings  Films Materials Chemistry,1
+Immunology  Allergy Rheumatology Immunology,1
+Architecture Civil  Structural Engineering Building  Construction Automotive Engineering Transportation Arts  Humanities  Safety Risk Reliability  Quality Safety Research Computer Science Applications,1
+Parasitology Microbiology Virology,1
+Ceramics  Composites Mechanics  Materials Polymers  Plastics Metals  Alloys,1
+Catalysis Electrochemistry,1
+Food Science Endocrinology Diabetes  Metabolism Nutrition  Dietetics,1
+Geography Planning  Development Building  Construction Urban Studies,1
+Toxicology Pollution Health Toxicology  Mutagenesis,1
+Oncology Obstetrics  Gynecology,1
+Biotechnology Atomic  Molecular Physics  Optics,1
+Reproductive Medicine Urology,1
+Internal Medicine Immunology  Allergy Hepatology Gastroenterology,1
+Radiological  Ultrasound Technology Radiology Nuclear Medicine  Imaging Gastroenterology Urology,1
+Health  Education Public Health Environmental  Occupational Health,1
+Neurology  Cardiology  Cardiovascular Medicine Advanced  Specialized Nursing,1
+Immunology  Allergy Immunology Oncology,1
+Biotechnology Bioengineering Biomedical Engineering Materials Science  Pharmaceutical Science,1
+Molecular Biology Cell Biology,1
+Immunology Endocrine  Autonomic Systems Behavioral Neuroscience,1
+Catalysis Education Energy  Process Chemistry  Technology Fluid Flow  Transfer Processes Filtration  Separation,1
+Food Science Agronomy  Crop Science Plant Science,1
+Architecture Civil  Structural Engineering Building  Construction,1
+Business  International Management Communication Media Technology Computer Science Applications Library  Information Sciences,1
+Food Science Nutrition  Dietetics Endocrinology Diabetes  Metabolism,1
+Geotechnical Engineering  Engineering Geology Safety Research Geology,1
+Biotechnology Bioengineering Biomaterials Biomedical Engineering Molecular Biology Cell Biology,1
+Human-Computer Interaction Computer Networks  Communications,1
+Pediatrics Perinatology  Child Health Hematology Oncology,1
+Drug Discovery Computer Science Applications Physical  Theoretical Chemistry,1
+Geography Planning  Development Transportation,1
+Instrumentation Condensed Matter Physics Surfaces Coatings  Films,1
+Analytical Chemistry Physical  Theoretical Chemistry,1
+Pediatrics Perinatology  Child Health Cardiology  Cardiovascular Medicine,1
+Computer Science  Electrical  Electronic Engineering,1
+Waste Management  Disposal Economics  Econometrics,1
+Architecture Civil  Structural Engineering Building  Construction Materials Science  Computer Science Applications Computer Graphics  Computer-Aided Design,1
+Oncology Neurology,1
+Forestry Agronomy  Crop Science Computer Science Applications Horticulture,1
+Emergency Medicine,1
+Nephrology Urology Transplantation,1
+Chemical Engineering  Fuel Technology Physical  Theoretical Chemistry,1
+Ecology Evolution Behavior  Systematics Biochemistry Genetics  Molecular Biology  Space  Planetary Science Paleontology,1
+Neurology Geriatrics  Gerontology Neurology,1
+Biotechnology Biochemistry Molecular Biology Cell Biology,1
+Pharmacology Pharmaceutical Science Pharmacology,1
+Decision Sciences  Ecology Evolution Behavior  Systematics Ecology,1
+Biophysics Biochemistry,1
+Surfaces  Interfaces Surfaces Coatings  Films Materials Chemistry,1
+Civil  Structural Engineering Water Science  Technology Ocean Engineering,1
+Geography Planning  Development Civil  Structural Engineering Renewable Energy Sustainability   Environment Transportation,1
+Ecology Evolution Behavior  Systematics Genetics Health Informatics,1
+Global  Planetary Change Geography Planning  Development Urban Studies Economics  Econometrics Management Monitoring Policy  Law,1
+Analysis Algebra  Number Theory Mamatical Physics Logic Geometry  Topology,1
+Language  Linguistics Acoustics  Ultrasonics Linguistics  Language,1
+Pharmacology Complementary  Alternative Medicine,1
+Medicine  Pharmacology,1
+Business Management  Accounting,1
+Chemistry  Materials Science  Condensed Matter Physics Mechanics  Materials,1
+Geography Planning  Development Instrumentation Earth  Planetary Sciences,1
+Aquatic Science Immunology,1
+Geography Planning  Development Political Science  International Relations,1
+Computer Science  Statistics Probability  Uncertainty Modeling  Simulation Statistics  Probability,1
+Electronic Optical  Magnetic Materials Renewable Energy Sustainability   Environment Fuel Technology Materials Chemistry,1
+Management Information Systems Computer Science Applications Computer Networks  Communications Management  Technology  Innovation,1
+Internal Medicine Cardiology  Cardiovascular Medicine Assessment  Diagnosis Advanced  Specialized Nursing,1
+Environmental Science  Agricultural  Biological Sciences  Engineering,1
+Building  Construction Geophysics Geology,1
+Civil  Structural Engineering Geography Planning  Development Automotive Engineering Transportation Environmental Science  Urban Studies Management Science  Operations Research,1
+Mechanics  Materials Mechanical Engineering,1
+Biochemistry Geography Planning  Development Aquatic Science Water Science  Technology,1
+Safety Risk Reliability  Quality Engineering,1
+Modeling  Simulation Computer Science Applications,1
+Language  Linguistics Linguistics  Language Computer Science Applications Artificial Intelligence,1
+Food Science Animal Science  Zoology Agronomy  Crop Science Soil Science Plant Science Horticulture,1
+Pharmacology Microbiology  Pharmacology  Infectious Diseases,1
+Oncology Gastroenterology,1
+Religious Studies,1
+Hematology Oncology,1
+Otorhinolaryngology Dentistry  Cell Biology,1
+Electronic Optical  Magnetic Materials Condensed Matter Physics,1
+Parasitology Infectious Diseases Virology,1
+Medicine  Pharmacology Toxicology  Pharmaceutics  Pharmacology,1
+Molecular Medicine Pharmaceutical Science Drug Discovery,1
+Stware Information Systems Computer Science Applications Computer Networks  Communications Artificial Intelligence,1
+Mechanical Engineering Control  Optimization Artificial Intelligence,1
+Surgery Otorhinolaryngology,1
+Ecology Evolution Behavior  Systematics Aquatic Science Ecology,1
+Computer Science  Mamatics  Engineering,1
+Microbiology Immunology Applied Microbiology  Biotechnology Genetics Microbiology  Cell Biology,1
+Orthopedics  Sports Medicine Rehabilitation Biomedical Engineering,1
+Polymers  Plastics Materials Chemistry,1
+Health  History  Philosophy  Science,1
+Virology,1
+Aquatic Science Veterinary,1
+Food Science Agronomy  Crop Science Horticulture,1
+Biotechnology Chemical Engineering  Renewable Energy Sustainability   Environment Fuel Technology Waste Management  Disposal Pollution Organic Chemistry Inorganic Chemistry,1
+Health  Geriatrics  Gerontology,1
+Pathology  Forensic Medicine Endocrinology Diabetes  Metabolism Endocrinology,1
+Hepatology Infectious Diseases Virology,1
+Environmental Engineering Renewable Energy Sustainability   Environment Water Science  Technology Waste Management  Disposal Pollution,1
+Cardiology  Cardiovascular Medicine Internal Medicine,1
+Food Science Biochemistry,1
+Chemistry  Renewable Energy Sustainability   Environment Materials Science,1
+Finance,1
+Biotechnology Bioengineering Environmental Engineering Biomedical Engineering,1
+Insect Science,1
+Clinical Biochemistry Medical Laboratory Technology,1
+Biochemistry Genetics  Molecular Biology  Agricultural  Biological Sciences,1
+Medicine  Agricultural  Biological Sciences  Pharmaceutical Science,1
+Environmental Engineering Environmental Chemistry Chemical Engineering  Environmental Science  Engineering,1
+Biotechnology Genetics,1
+Condensed Matter Physics Physical  Theoretical Chemistry Polymers  Plastics Organic Chemistry Materials Chemistry,1
+Food Science Medicine  Nutrition  Dietetics,1
+Surgery Pediatrics Perinatology  Child Health,1
+Immunology Cellular  Molecular Neuroscience Cell Biology Cancer Research,1
+Physiology Pharmacology Physiology,1
+Materials Science  Engineering  Physics  Astronomy,1
+Electrical  Electronic Engineering,1
+Environmental Engineering Civil  Structural Engineering Building  Construction Geotechnical Engineering  Engineering Geology Engineering,1
+Information Systems Computer Networks  Communications Information Systems  Management Electrical  Electronic Engineering,1
+Health Policy Health Informatics Public Health Environmental  Occupational Health,1
+Virology Infectious Diseases,1
+History Law,1
+Neurology Neurology  Cardiology  Cardiovascular Medicine,1
+Chemistry  Biochemistry,1
+Ecology Evolution Behavior  Systematics Molecular Biology Genetics Genetics  Cancer Research,1
+Global  Planetary Change Food Science Ecology Agronomy  Crop Science Management Monitoring Policy  Law Horticulture,1
+Catalysis Organic Chemistry,1
+Biotechnology Bioengineering Histology Biomedical Engineering,1
+Analytical Chemistry Spectroscopy Organic Chemistry Inorganic Chemistry,1
+Biotechnology Food Science Biomedical Engineering Renewable Energy Sustainability   Environment,1
+Ecology Evolution Behavior  Systematics Aquatic Science Ecology Animal Science  Zoology,1
+Biotechnology Bioengineering Applied Microbiology  Biotechnology,1
+Mamatics  Engineering  Physics  Astronomy,1
+Ecology Evolution Behavior  Systematics Agricultural  Biological Sciences,1
+Bioengineering Biomaterials Polymers  Plastics Materials Chemistry,1
+Business  International Management Tourism Leisure  Hospitality Management Strategy  Management Marketing,1
+Renewable Energy Sustainability   Environment Energy Engineering  Power Technology Physical  Theoretical Chemistry Electrical  Electronic Engineering,1
+Analytical Chemistry Chemical Engineering  Engineering,1
+Social Sciences  Sociology  Political Science,1
+Neurology  Psychiatry  Mental Health,1
+Electrical  Electronic Engineering Electronic Optical  Magnetic Materials,1
+Critical Care  Intensive Care Medicine Emergency Medicine Physiology,1
+Chemical Engineering  Fuel Technology Energy Engineering  Power Technology,1
+Ecology Evolution Behavior  Systematics Ecology,1
+Nursing  Education,1
+Microbiology Virology,1
+Renewable Energy Sustainability   Environment Environmental Science,1
+Computer Science Applications Management Science  Operations Research,1
+Radiology Nuclear Medicine  Imaging Nuclear  High Energy Physics,1
+Education Arts  Humanities  Strategy  Management,1
+Chemistry  Chemical Engineering  Process Chemistry  Technology Filtration  Separation,1
+Health  Medicine,1
+Chemical Engineering  Computer Science Applications,1
+Biochemistry Chemistry,1
+Business Management  Accounting  Public Administration,1
+Information Systems Stware Computer Networks  Communications Computer Vision  Pattern Recognition,1
+Chemistry  Surfaces Coatings  Films Polymers  Plastics Materials Chemistry,1
+Biotechnology Biochemistry Genetics Plant Science Horticulture,1
+Structural Biology Molecular Biology,1
+Computer Networks  Communications Computer Science Applications Computer Vision  Pattern Recognition Information Systems,1
+Analytical Chemistry Biochemistry Environmental Chemistry Spectroscopy Electrochemistry,1
+Business  International Management Marketing,1
+Chemistry  Materials Science  Engineering,1
+Energy Engineering  Power Technology Renewable Energy Sustainability   Environment Electrical  Electronic Engineering Electronic Optical  Magnetic Materials,1
+Electrical  Electronic Engineering Mechanical Engineering,1
+Computer Networks  Communications Signal Processing Safety Risk Reliability  Quality,1
+Biophysics Biochemistry Molecular Biology Cell Biology,1
+Communication Sociology  Political Science,1
+Global  Planetary Change Ecology Evolution Behavior  Systematics Ecology,1
+Ecology Evolution Behavior  Systematics Genetics,1
+Anatomy Histology,1
+Environmental Engineering Applied Microbiology  Biotechnology Water Science  Technology Waste Management  Disposal Pollution Public Health Environmental  Occupational Health Health Toxicology  Mutagenesis,1
+Neuroscience,1
+Rheumatology Immunology  Allergy Immunology,1
+Applied Microbiology  Biotechnology,1
+Pharmacology Toxicology  Pharmaceutics  Pharmacology,1
+Control  Systems Engineering Mechanical Engineering Electrical  Electronic Engineering,1
+Economics  Econometrics Tourism Leisure  Hospitality Management Management Monitoring Policy  Law,1
+Geography Planning  Development Education,1
+Computer Science Applications Development Artificial Intelligence Urban Studies,1
+Information Systems  Management Modeling  Simulation Artificial Intelligence Computer Networks  Communications Computer Science Applications Hardware  Architecture Information Systems,1
+Renewable Energy Sustainability   Environment Energy Engineering  Power Technology,1
+Social Sciences  Economics Econometrics  Finance,1
+Computer Networks  Communications Computer Science Applications Energy Engineering  Power Technology Engineering  Electrical  Electronic Engineering Control  Optimization Instrumentation,1
+Development Finance Economics  Econometrics,1
+Communication Computer Networks  Communications Stware Engineering  Media Technology Education,1
+Cultural Studies History Development Anthropology Religious Studies Literature  Literary Theory History  Philosophy  Science,1
+Algebra  Number Theory,1
+Biochemistry Organic Chemistry,1
+Structural Biology Biochemistry Molecular Biology Computer Science Applications Applied Mamatics,1
+Biochemistry Immunology Hematology Cell Biology,1
+Renewable Energy Sustainability   Environment Energy Engineering  Power Technology Environmental Engineering Management Monitoring Policy  Law,1
+Engineering  Environmental Science  Economics Econometrics  Finance  Business Management  Accounting,1
+Chemistry  Chemical Engineering  Materials Chemistry,1
+Renewable Energy Sustainability   Environment Fuel Technology Energy Engineering  Power Technology Economics  Econometrics,1
+Chemistry  Agricultural  Biological Sciences,1
+Civil  Structural Engineering Building  Construction Modeling  Simulation Renewable Energy Sustainability   Environment Fuel Technology Energy Engineering  Power Technology Pollution Energy  Mechanical Engineering Industrial  Manufacturing Engineering Management Monitoring Policy  Law Electrical  Electronic Engineering,1
+Geology Geochemistry  Petrology,1
+Statistics  Probability Biochemistry Molecular Biology Computer Science Applications Computational Theory  Mamatics Computational Mamatics,1
+Neuroscience  Neurology  Psychiatry  Mental Health,1
+Food Science Chemical Engineering  Safety Risk Reliability  Quality Industrial  Manufacturing Engineering,1
+Nephrology Transplantation,1
+Nature  Lscape Conservation Management Monitoring Policy  Law,1
+Accounting Finance Economics Econometrics  Finance,1
+Parasitology Epidemiology Microbiology Immunology Drug Discovery Virology Infectious Diseases,1
+Structural Biology,1
+Control  Systems Engineering Civil  Structural Engineering Building  Construction Computer Networks  Communications,1
+Pharmacology Plant Science Drug Discovery Complementary  Alternative Medicine,1
+Small Animals,1
+Analysis Applied Mamatics,1
+Surgery Medical  Surgical Nursing Anessiology  Pain Medicine,1
+Mamatics  Applied Mamatics,1
+Geochemistry  Petrology,1
+Economics  Econometrics Finance Development,1
+Civil  Structural Engineering Geotechnical Engineering  Engineering Geology Mechanics  Materials Mechanical Engineering Electrical  Electronic Engineering,1
+Stware Computer Graphics  Computer-Aided Design Computer Vision  Pattern Recognition Human-Computer Interaction,1
+Biochemistry Clinical Biochemistry,1
+Medicine  Molecular Medicine Biochemistry Genetics  Molecular Biology  Cell Biology,1
+Artificial Intelligence Computer Science Applications Control  Systems Engineering Electrical  Electronic Engineering,1
+Education Human-Computer Interaction Computer Science Applications,1
+Agronomy  Crop Science Insect Science,1
+Condensed Matter Physics Physical  Theoretical Chemistry Polymers  Plastics Materials Chemistry,1
+Management Information Systems Economics  Econometrics Strategy  Management Marketing Management Monitoring Policy  Law Management  Technology  Innovation,1
+Artificial Intelligence Computer Networks  Communications Computer Science Applications Information Systems Signal Processing Information Systems  Management,1
+Chemistry  Condensed Matter Physics Surfaces  Interfaces Surfaces Coatings  Films Materials Chemistry,1
+Materials Science  Condensed Matter Physics Surfaces  Interfaces Spectroscopy Electrochemistry,1
+Decision Sciences  Information Systems  Management Aerospace Engineering Mechanics  Materials Artificial Intelligence,1
+Analytical Chemistry Biochemistry Environmental Chemistry Spectroscopy,1
+Chemistry  Condensed Matter Physics Physics  Astronomy  Surfaces  Interfaces Surfaces Coatings  Films,1
+Stware Hardware  Architecture Computer Vision  Pattern Recognition Electrical  Electronic Engineering Artificial Intelligence,1
+Computer Science Applications Information Systems  Management Artificial Intelligence,1
+Epidemiology Cardiology  Cardiovascular Medicine,1
+Logic,1
+Ceramics  Composites Mechanics  Materials Mechanical Engineering Industrial  Manufacturing Engineering,1
+Nephrology Advanced  Specialized Nursing,1
+Biophysics Applied Microbiology  Biotechnology,1
+Geology,1
+Biophysics Biochemistry Chemistry  Atomic  Molecular Physics  Optics Condensed Matter Physics,1
+Chemical Engineering  Organic Chemistry Polymers  Plastics,1
+Microbiology Immunology  Allergy Immunology Microbiology,1
+Physiology Veterinary,1
+Immunology Developmental Biology,1
+Electronic Optical  Magnetic Materials Materials Science  Condensed Matter Physics Materials Chemistry,1
+Biochemistry Clinical Biochemistry Biochemistry,1
+Geotechnical Engineering  Engineering Geology Computer Science Applications,1
+Surgery Oral Surgery Pathology  Forensic Medicine Dentistry  Radiology Nuclear Medicine  Imaging,1
+Endocrinology Diabetes  Metabolism Physiology Histology,1
+Biochemistry Chemistry  Chemical Engineering  Industrial  Manufacturing Engineering Materials Chemistry,1
+Safety Risk Reliability  Quality Energy,1
+Molecular Medicine Cell Biology,1
+Environmental Engineering Civil  Structural Engineering Ecological Modeling Water Science  Technology Waste Management  Disposal Pollution,1
+Health  Sociology  Political Science Life-span  Life-course Studies,1
+Materials Science  Condensed Matter Physics Mechanical Engineering Applied Mamatics,1
+Anatomy Surgery Pathology  Forensic Medicine Radiology Nuclear Medicine  Imaging,1
+Pathology  Forensic Medicine Cell Biology,1
+Forestry Ecology Soil Science,1
 Orthodontics,1
-Administration,1
-Cognitive,1
-Ecological,1
-Professions,1
-Aerospace,1
-Equine,1
+Biophysics Biomedical Engineering Radiology Nuclear Medicine  Imaging Physics  Astronomy,1
+Dental Hygiene,1
+Transportation Safety Research Urban Studies Engineering,1
+Geophysics Earth  Planetary Sciences,1
+Environmental Engineering,1
+Environmental Chemistry Immunology Aquatic Science Immunology  Microbiology,1
+Water Science  Technology Earth  Planetary Sciences,1
+Metals  Alloys Industrial  Manufacturing Engineering Materials Chemistry,1
+Biochemistry Molecular Biology Genetics Cancer Research,1
+Clinical Psychology Applied Psychology Psychiatry  Mental Health,1
+Chemistry  Materials Science  Condensed Matter Physics,1
+Nuclear Energy  Engineering Safety Risk Reliability  Quality Energy Engineering  Power Technology Waste Management  Disposal,1
+Biotechnology Bioengineering Applied Microbiology  Biotechnology Biomedical Engineering,1
+Parasitology Infectious Diseases Pharmacology,1
+Biochemistry Physiology Agricultural  Biological Sciences  Developmental Biology,1
+Biotechnology Animal Science  Zoology Endocrinology,1
+Medicine  Health  Health Policy Nutrition  Dietetics Public Health Environmental  Occupational Health,1
+Stware Computer Science  Nuclear  High Energy Physics,1
+Biophysics Biomedical Engineering Orthopedics  Sports Medicine Rehabilitation,1
+Economics Econometrics  Finance  Development Business Management  Accounting,1
+Computer Science  Chemistry  Mamatics  Physics  Astronomy,1
+Energy Engineering  Power Technology Electrical  Electronic Engineering,1
+Civil  Structural Engineering Building  Construction Computer Science Applications,1
+Neurology,1
+Biochemistry Chemistry  Chemical Engineering  Renewable Energy Sustainability   Environment Environmental Science  Agricultural  Biological Sciences  Earth  Planetary Sciences,1
+Water Science  Technology Ocean Engineering Pollution,1
+History Economics  Econometrics Economics Econometrics  Finance,1
+Biomedical Engineering Biomaterials Medicine  Biochemistry,1
+Information Systems Atomic  Molecular Physics  Optics Engineering  Computer Networks  Communications Artificial Intelligence,1
+Artificial Intelligence Computer Science Applications Decision Sciences,1
+Engineering  Environmental Science  Materials Science  Physics  Astronomy  Chemical Engineering  Earth  Planetary Sciences,1
+Biomaterials Biomedical Engineering Pharmaceutical Science,1
+Pediatrics Perinatology  Child Health Surgery,1
+Food Animals Animal Science  Zoology Endocrinology,1
+Food Science Chemistry  Industrial  Manufacturing Engineering,1
+History Literature  Literary Theory Religious Studies History  Philosophy  Science Development Anthropology Cultural Studies,1
+Electronic Optical  Magnetic Materials Atomic  Molecular Physics  Optics Biomedical Engineering Computer Science Applications Electrical  Electronic Engineering,1
+Catalysis Chemistry  Biochemistry Colloid  Surface Chemistry,1
+Business Management  Accounting  Development Economics Econometrics  Finance,1
+Surgery Oncology,1
+Arts  Humanities  Social Sciences  Psychology  Economics Econometrics  Finance,1
+Social Psychology,1
+Business  International Management Geography Planning  Development Strategy  Management Management Monitoring Policy  Law,1
+Environmental Engineering Environmental Chemistry Water Science  Technology Environmental Science  Geochemistry  Petrology,1
+Environmental Engineering Environmental Chemistry Chemistry  Pollution Health Toxicology  Mutagenesis,1
+Biotechnology Surfaces  Interfaces Physical  Theoretical Chemistry Colloid  Surface Chemistry,1
+Parasitology Animal Science  Zoology Infectious Diseases,1
+Atmospheric Science,1
+Polymers  Plastics Organic Chemistry Materials Chemistry,1
+Biomedical Engineering Materials Science  Engineering  Industrial  Manufacturing Engineering,1
+Geology Earth-Surface Processes,1
+Biophysics Biochemistry Organic Chemistry,1
+Oral Surgery Dentistry,1
+Biochemistry Genetics Plant Science Developmental Biology Cell Biology,1
+Endocrinology Urology,1
+Biochemistry Molecular Biology Plant Science Horticulture,1
+Chemical Engineering  Physical  Theoretical Chemistry Polymers  Plastics Organic Chemistry Materials Chemistry,1
+Cardiology  Cardiovascular Medicine Physiology,1
+Civil  Structural Engineering Building  Construction Materials Science  Mechanics  Materials,1
+Computer Science  Law,1
+Food Science Microbiology Health  Health Pressions  Plant Science,1
+Environmental Engineering Environmental Chemistry Waste Management  Disposal Pollution Health Toxicology  Mutagenesis,1
+Oral Surgery,1
+Pharmacology Pharmaceutical Science,1
+Endocrinology Diabetes  Metabolism Nutrition  Dietetics,1
+Biochemistry Physiology Clinical Biochemistry Cancer Research,1
+Hepatology Virology Infectious Diseases,1
+Civil  Structural Engineering Transportation Geotechnical Engineering  Engineering Geology,1
+Food Science Agronomy  Crop Science Insect Science Horticulture,1
+Electronic Optical  Magnetic Materials Computer Science  Atomic  Molecular Physics  Optics Spectroscopy Physical  Theoretical Chemistry Organic Chemistry Inorganic Chemistry Electrical  Electronic Engineering,1
+Civil  Structural Engineering Building  Construction Mechanical Engineering,1
+Building  Construction Mechanical Engineering Energy  Management Monitoring Policy  Law,1
+Microbiology Immunology  Allergy Immunology Veterinary  Infectious Diseases,1
+Public Health Environmental  Occupational Health Genetics,1
+Astronomy  Astrophysics,1
+Biomaterials Biomedical Engineering Cell Biology Transplantation,1
+Environmental Chemistry Aquatic Science,1
+Engineering  Media Technology Education,1
+Immunology Pharmacology,1
+Control  Systems Engineering Renewable Energy Sustainability   Environment Energy Engineering  Power Technology Electrical  Electronic Engineering,1
+Radiation Radiological  Ultrasound Technology Biophysics Radiology Nuclear Medicine  Imaging,1
+Molecular Biology Genetics Virology,1
+Rheumatology,1
+Endocrinology Diabetes  Metabolism Orthopedics  Sports Medicine,1
+Chemistry  Mamatics  Agricultural  Biological Sciences  Physics  Astronomy  Earth  Planetary Sciences,1
+Structural Biology Biochemistry Organic Chemistry Computational Mamatics,1
+Algebra  Number Theory Applied Mamatics,1
+Immunology  Allergy Molecular Biology Immunology  Microbiology  Microbiology  Infectious Diseases,1
+Pathology  Forensic Medicine,1
+Chemistry  Aging Pharmaceutical Science Drug Discovery Dermatology Colloid  Surface Chemistry,1
+Immunology  Allergy Immunology Genetics,1
+Radiology Nuclear Medicine  Imaging Neurology Cognitive Neuroscience Neurology  Cellular  Molecular Neuroscience Psychiatry  Mental Health Behavioral Neuroscience,1
+Medicine  Biochemistry Genetics  Molecular Biology  Agricultural  Biological Sciences,1
+Biochemistry Molecular Biology Genetics  Cell Biology,1
+Civil  Structural Engineering Building  Construction Materials Science,1
+Artificial Intelligence Computer Networks  Communications Computer Science Applications Information Systems  Management,1
+Management  Technology  Innovation Marketing Strategy  Management Artificial Intelligence Computer Networks  Communications Computer Science Applications Health Informatics Safety Research,1
+Polymers  Plastics Process Chemistry  Technology Organic Chemistry,1
+Education Computer Science Applications Library  Information Sciences,1
+Accounting Business Management  Accounting  Economics Econometrics  Finance,1
+Biochemistry Molecular Medicine Molecular Biology Pharmaceutical Science Drug Discovery Clinical Biochemistry Organic Chemistry,1
+Biochemistry Molecular Medicine,1
+Organic Chemistry,1
+Computational Mechanics Modeling  Simulation Fluid Flow  Transfer Processes,1
+Organic Chemistry Polymers  Plastics Inorganic Chemistry Materials Chemistry,1
+Arts  Humanities,1
+Pathology  Forensic Medicine Otorhinolaryngology Oncology,1
+Education Applied Psychology Psychology,1
+Geotechnical Engineering  Engineering Geology Geology,1
+Hematology Transplantation,1
+Electronic Optical  Magnetic Materials Surfaces Coatings  Films Electrical  Electronic Engineering,1
+Accounting Finance Economics  Econometrics,1
+Parasitology Ecology Evolution Behavior  Systematics Veterinary  Insect Science,1
+Geotechnical Engineering  Engineering Geology Earth  Planetary Sciences,1
+Anatomy Pathology  Forensic Medicine,1
+Immunology Pharmacology Infectious Diseases Pharmacology,1
+Medicine  Nutrition  Dietetics,1
+Geotechnical Engineering  Engineering Geology,1
+Pathology  Forensic Medicine Histology,1
+Renewable Energy Sustainability   Environment Fuel Technology Engineering  Energy Engineering  Power Technology Energy  Control  Optimization Electrical  Electronic Engineering,1
